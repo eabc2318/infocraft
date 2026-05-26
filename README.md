@@ -1,3 +1,5 @@
+![hippo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTY1Y214Yjhic2oyNm9rb3V4NTcwa2V6cGZkZjlnY21uNWc1Y3JnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8UiYQWoZgafFJaN9hw/giphy.gif)
+
 Bienvenue sur le dépôt du launcher officiel d'**Infocraft**, l'événement Minecraft exclusif du BUT Informatique ! Ce launcher personnalisé vous permet de vous connecter instantanément au serveur avec la configuration nécessaire.
 
 ---
